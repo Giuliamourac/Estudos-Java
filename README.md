@@ -1,5 +1,5 @@
 # Projetos
--[Sakura Restaurant](https://github.com/Giuliamourac/Sakura-Restaurant-System/tree/main)
+- [Sakura Restaurant](https://github.com/Giuliamourac/Sakura-Restaurant-System/tree/main)
 
 ## 🥋 Exercícios
 
