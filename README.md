@@ -1,3 +1,3 @@
 # 🥋 Exercícios
 
-- [Aula 24/08/2026](aula2408)
+- [Aula 24/08/2026](exercicios/aula2408)
